@@ -9,3 +9,9 @@
 1. Fight Club
 2. Moneyball
 3. World War Z
+
+### My Favorite Songs
+
+- Blinding Lights
+- Starboy
+- Die With A Smile
