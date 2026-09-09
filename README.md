@@ -30,3 +30,15 @@ There are many cities around the world that I would like to visit. The following
 | Tokyo  | To experience Japanese culture | 6,740 miles                 | $900                  |
 | London | To visit famous landmarks      | 3,460 miles                 | $550                  |
 | Dubai  | To see modern architecture     | 6,840 miles                 | $800                  |
+
+---
+
+## Favorite Jokes
+
+### Steven Wright
+
+> I intend to live forever. So far, so good.
+
+### Mitch Hedberg
+
+> I used to do drugs. I still do, but I used to, too.
